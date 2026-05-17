@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Reetika 👋
 
-<!--
-**reetikachoudhary15-hue/reetikachoudhary15-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at GLA University
 
-Here are some ideas to get you started:
+💻 Open Source Contributor @ GSSoC'26
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+
+* Java
+* Python
+* Machine Learning
+* Full Stack Development
+
+🚀 Interested in:
+
+* Problem Solving
+* UI/UX Thinking
+* AI-powered applications
+* Open Source Contributions
+
+📌 Current Focus:
+Improving frontend usability, learning scalable development practices, and building real-world projects.
+
+✨ I enjoy exploring ideas that combine technology, usability, and practical problem solving.
